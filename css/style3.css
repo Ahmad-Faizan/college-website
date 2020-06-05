@@ -560,11 +560,11 @@ p, li, a, span, table, tr, td, th, label{
    /* margin-top: 60px;
     */
     padding: 50px 0px 65px 0px;
-    background: #5c1e21;
+    background: #000;
 }
 .wed-hom-footer h4{
-    font-size: 14px;
-    color: #ffe400;
+    font-size: 18px;
+    color: #fff;
     padding-bottom: 25px;
     text-transform: uppercase;
 }
@@ -648,7 +648,7 @@ p, li, a, span, table, tr, td, th, label{
     background: #01172f;
 }
 .wed-rights p{
-    text-align: center;
+    text-align: center !important;
     margin-bottom: 0px;
     padding: 8px;
     color: #adadad;
@@ -1979,7 +1979,7 @@ p, li, a, span, table, tr, td, th, label{
 /* =  11.BOTTOM BOOKING 
 /*-------------------------------------------------*/
 .full-bot-book{
-    background: #f36b3b;
+    background: #181819;
     padding: 10px 0px;
     position: relative;
     overflow: hidden;
