@@ -645,13 +645,13 @@ p, li, a, span, table, tr, td, th, label{
     width: 140px;
 }
 .wed-rights{
-    background: #01172f;
+    background: #127681;
 }
 .wed-rights p{
     text-align: center !important;
     margin-bottom: 0px;
     padding: 8px;
-    color: #adadad;
+    color: black;
     font-size: 13px;
 }
 .sprite-android{
