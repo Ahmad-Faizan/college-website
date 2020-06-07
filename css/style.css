@@ -5,3 +5,16 @@
 header.sticky .site-header__logo {
     padding: 0 !important;
 }
+
+.ho-ev-link {
+    margin-left: auto !important;
+    width: 75% !important;
+}
+
+.ho-ev-link h4 {
+    white-space: nowrap !important;
+}
+
+.ho-ev-link p {
+    white-space: nowrap !important;
+}
