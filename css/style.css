@@ -1,3 +1,7 @@
 .dropdown-menu {
     padding: 0 !important;
 }
+
+header.sticky .site-header__logo {
+    padding: 0 !important;
+}
